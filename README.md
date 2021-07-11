@@ -10,6 +10,9 @@
 
 ![ezgif-6-eae90aacdffb](https://user-images.githubusercontent.com/8605491/125187888-9aab1b80-e253-11eb-81dd-1edf67d977e5.gif)
 
+- 💼 any freelance work? do reach out to me! :)
+- 💬 ask me about anything, i am happy to help from the scope of my ability and availibility ;)
+
 ### Connect with me : 
 
 <a href="mailto:hossainalikram@gmail.com">
