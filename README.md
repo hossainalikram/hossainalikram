@@ -3,7 +3,8 @@
 ### My name is ~~hosain~~ Hossain Al Ikram.
 
 - Prefered to be called by **IKRAM** (Despite of being it my surname).
-- Currently employed at **[NearOnes](https://www.nearones.com/about-us)** as a Software Quality Assurance Engineer.
+- Currently employed at **[EWN]([https://www.nearones.com/about-us](https://www.linkedin.com/company/east-west-nets/))** as a Principal Software Quality Assurance Engineer.
+- Prevoiusly employed with **[NearOnes](https://www.nearones.com/about-us)** as a Senior Software Quality Assurance Engineer.
 - Prevoiusly I worked with **[Mozilla](https://www.mozilla.org/en-US/about/leadership/#reps-council)** as a Volunteer in Firefox Desktop Quality Engineering Team.
 
 ### Looking for bugs inside or around since October, 2014.
